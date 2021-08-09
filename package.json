@@ -17,7 +17,7 @@
     "react-scripts": "^4.0.3"
   },
   "devDependencies": {
-    "@ridedott/eslint-config": "^2.14.5",
+    "@ridedott/eslint-config": "^2.15.15",
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^12.0.0",
     "@testing-library/user-event": "^13.1.9",
